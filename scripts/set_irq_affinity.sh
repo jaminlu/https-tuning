@@ -1,5 +1,5 @@
 # setting up irq affinity according to /proc/interrupts
-# 2008-11-25 by lmj
+# 2016-11-25 by lmj
 
 #  Assuming a device with two RX and TX queues.
 #  This script will assign: 
